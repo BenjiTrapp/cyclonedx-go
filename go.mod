@@ -1,4 +1,4 @@
-module github.com/CycloneDX/cyclonedx-go
+module github.com/BenjiTrapp/cyclonedx-go
 
 go 1.18
 
